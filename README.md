@@ -37,7 +37,8 @@ MediaPipe (for facial landmark detection)
 
 Run the Streamlit app:
 
-streamlit run app.py
+streamlit run emotion.py
+
 Use the buttons in the interface to start/stop your webcam and see detected emotions.
 
 **✅ Advantages**
